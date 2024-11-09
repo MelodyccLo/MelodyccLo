@@ -1,4 +1,4 @@
-## Hi there 👋
+## Aloha!!! Welcome to Melody's Corner
 
 <!--
 **MelodyccLo/MelodyccLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
