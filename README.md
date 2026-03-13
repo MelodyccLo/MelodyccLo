@@ -38,7 +38,7 @@ A Python computer vision toolkit for offline workout video analysis. Includes mu
 A skill-sharing platform UI prototype focused on clean layout, responsive design, and accessible interface patterns. Built with HTML and CSS to explore user-centered design for community-driven skill exchange.
 
 ### [COGS300-6](https://github.com/MelodyccLo/COGS300-6)
-An Arduino-based robotics project developed for COGS 300 at UBC. Implements motor control, serial diagnostics, and modular embedded software architecture in C++.
+A robotics lab portfolio developed for COGS 300 at UBC. Covers motor control, BLE wireless communication, wall following, line following, Bayesian object tracking, and maze navigation -- built with Arduino C++ and Processing across 6 progressive labs.
 
 ---
 
